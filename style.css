@@ -10,3 +10,9 @@ main{
   text-align: center;
   padding: 20px;
 }
+
+#current_savings{
+  border-radius: 25px;
+  width: 30%;
+  padding: 10px;
+}
