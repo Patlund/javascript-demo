@@ -1,0 +1,12 @@
+
+div{
+  margin: 15px;
+}
+
+main{
+  max-width: 50%;
+  margin: 0 auto;
+  background-color: blanchedalmond;
+  text-align: center;
+  padding: 20px;
+}
