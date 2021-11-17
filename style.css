@@ -1,14 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik&display=swap');
+
 
 div{
   margin: 15px;
-}
-
-main{
-  max-width: 50%;
-  margin: 0 auto;
-  background-color: blanchedalmond;
-  text-align: center;
-  padding: 20px;
 }
 
 #current_savings{
@@ -16,4 +10,13 @@ main{
   width: 30%;
   padding: 10px;
   text-align: center;
+}
+
+h1{
+  text-align: center;
+  font-family: 'Rubik', sans-serif;
+}
+
+.btn{
+  font-size: 28px;
 }
